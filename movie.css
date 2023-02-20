@@ -10,11 +10,9 @@ body {
     background: linear-gradient(rgb(20, 20, 65) 50%, rgb(39, 0, 39) 50%);
 }
 
-h5{
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
-}
+.last{margin-top: 10px;}
+
+.last a {color: white;}
 
 .container {
     width: 90vw;
