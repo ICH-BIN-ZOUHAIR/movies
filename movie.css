@@ -143,8 +143,8 @@ p{
     .poster{max-width: auto; width: auto; min-height: 8.8em;}
     .info > img{max-width: 40%; margin-right: 10px;}
     .info{display: flex;}
+    .genre{width: auto; justify-content: center; align-items: center; gap: 6px; display: flex; flex-direction: column;}
 }
-
 
 
 
