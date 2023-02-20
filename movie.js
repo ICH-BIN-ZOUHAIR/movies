@@ -40,6 +40,7 @@ let getMovie = () =>{
                     <p>${data.Plot}</p>
                     <h3>Cast :</h3>
                     <p>${data.Actors}</p>
+                    <p class="last"><a href="https://github.com/ICH-BIN-ZOUHAIR" target="_blank">You like it? Follow me on github to see more...</a></p>
                 `
             }
             //if movie is not in api database
