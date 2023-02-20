@@ -138,6 +138,12 @@ p{
     .poster{max-width: auto; width: auto; min-height: 10.8em;}
     .info{grid-template-columns: 1fr;}
 }
+@media screen and (max-width:690px) {
+    .container{font-size: 10px; max-width: 320px; max-height: 800px;}
+    .poster{max-width: auto; width: auto; min-height: 8.8em;}
+    .info > img{max-width: 40%; margin-right: 10px;}
+    .info{display: flex;}
+}
 
 
 
